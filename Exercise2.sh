@@ -14,11 +14,12 @@ read -r -p "Enter the username of the account: " USERNAME
 
 # Get the real name (contents for the description field).
 
-read -r -p "Enter the name of the person this accont is created for: " REAL_NAME
+read -r -p "Enter the name of the person this account is created for: " REAL_NAME
 
 # Get the password.
 
 read -r -s -p "Enter the password for the user account: " PASSWORD
+echo
 
 #Check if all variables have non-zero value
 
