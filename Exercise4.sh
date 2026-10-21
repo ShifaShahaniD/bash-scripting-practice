@@ -36,7 +36,7 @@ PASSWORD=$( date +%s%N | sha256sum | head -c48 )
 
 if ! useradd -c "$COMMENT" -m "$USERNAME" >/dev/null 2>&1
 then
-  echo "Error creating user, try again."
+  echo "Error creating user, try again." >&2
   exit 1
 fi
 
@@ -45,7 +45,7 @@ fi
 
 if ! echo $USERNAME:$PASSWORD | chpasswd >/dev/null 2>&1
 then
-  echo "Error setting password, try again."
+  echo "Error setting password, try again." >&2
   exit 1
 fi
 
@@ -53,7 +53,7 @@ fi
 
 if ! passwd -e "$USERNAME" >/dev/null 2>&1
 then
-    echo "Error expiring the password."
+    echo "Error expiring the password." >&2
     unset PASSWORD
     exit 1
 fi
