@@ -1,0 +1,84 @@
+Oct 26 00:03:36 codespace sshd[90860]: Accepted publickey for deploy from 192.0.2.143 port 59126 ssh2
+Oct 26 00:06:23 codespace sshd[49952]: Failed password for support from 198.51.100.19 port 22 ssh2
+Oct 26 00:18:25 web01 sshd[96209]: Failed password for deploy from 192.0.2.143 port 22 ssh2
+Oct 26 00:32:52 web01 sshd[76245]: Failed password for guest from 203.0.113.25 port 22 ssh2
+Oct 26 01:29:07 codespace sshd[96702]: Failed password for ubuntu from 198.51.100.19 port 2222 ssh2
+Oct 26 01:32:45 codespace sshd[39594]: Failed password for ubuntu from 198.51.100.74 port 22 ssh2
+Oct 26 01:47:58 auth-gateway sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 01:55:09 server01 sshd[85246]: Failed password for guest from 203.0.113.25 port 22 ssh2
+Oct 26 02:14:18 web01 sshd[97352]: Failed password for test from 203.0.113.25 port 22 ssh2
+Oct 26 02:41:32 server01 sshd[34149]: Failed password for admin from 203.0.113.25 port 22 ssh2
+Oct 26 03:09:41 web01 sshd[99752]: Failed password for deploy from 198.51.100.74 port 22 ssh2
+Oct 26 03:41:11 web01 sshd[55905]: Accepted publickey for shifa from 203.0.113.89 port 21851 ssh2
+Oct 26 04:30:12 web01 sshd[90807]: Failed password for admin from 198.51.100.19 port 22 ssh2
+Oct 26 04:42:57 web01 sshd[2263]: Accepted publickey for deploy from 203.0.113.89 port 52665 ssh2
+Oct 26 05:28:25 codespace sshd[64772]: Failed password for ubuntu from 192.0.2.56 port 22 ssh2
+Oct 26 05:31:12 codespace sshd[86237]: Failed password for oracle from 203.0.113.25 port 22 ssh2
+Oct 26 05:49:56 web01 sshd[91039]: Accepted publickey for shifa from 203.0.113.25 port 48175 ssh2
+Oct 26 06:00:16 auth-gateway sshd[56070]: Failed password for support from 203.0.113.89 port 22 ssh2
+Oct 26 06:41:54 codespace sshd[41231]: Accepted publickey for ubuntu from 203.0.113.89 port 64003 ssh2
+Oct 26 06:50:53 web01 sshd[96581]: Failed password for test from 203.0.113.89 port 22 ssh2
+Oct 26 06:51:02 server01 sshd[65353]: Accepted publickey for deploy from 198.51.100.74 port 53367 ssh2
+Oct 26 06:54:16 codespace sshd[74682]: Failed password for oracle from 198.51.100.74 port 22 ssh2
+Oct 26 06:59:01 auth-gateway sshd[46201]: Failed password for deploy from 198.51.100.74 port 22 ssh2
+Oct 26 07:17:10 server01 sshd[26264]: Accepted publickey for deploy from 192.0.2.143 port 46891 ssh2
+Oct 26 07:35:31 auth-gateway sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 08:17:18 server01 sshd[45486]: Failed password for root from 198.51.100.19 port 2222 ssh2
+Oct 26 08:27:49 server01 sshd[87377]: Failed password for deploy from 198.51.100.74 port 22 ssh2
+Oct 26 08:28:24 auth-gateway sshd[14432]: Failed password for ubuntu from 198.51.100.74 port 2222 ssh2
+Oct 26 08:54:40 codespace sshd[7149]: Failed password for admin from 192.0.2.143 port 22 ssh2
+Oct 26 09:32:01 web01 sshd[69993]: Failed password for root from 203.0.113.89 port 22 ssh2
+Oct 26 09:33:55 codespace sshd[33003]: Failed password for admin from 203.0.113.89 port 22 ssh2
+Oct 26 09:39:46 auth-gateway sshd[68692]: Failed password for ubuntu from 203.0.113.25 port 22 ssh2
+Oct 26 09:48:42 web01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 10:14:33 codespace sshd[81144]: Failed password for admin from 192.0.2.56 port 22 ssh2
+Oct 26 10:22:04 codespace sshd[29390]: Failed password for admin from 203.0.113.25 port 22 ssh2
+Oct 26 10:50:35 server01 sshd[71116]: Failed password for support from 203.0.113.89 port 22 ssh2
+Oct 26 10:59:48 codespace sshd[61237]: Failed password for root from 203.0.113.25 port 22 ssh2
+Oct 26 11:08:50 web01 sshd[53507]: Failed password for root from 198.51.100.74 port 22 ssh2
+Oct 26 11:09:07 auth-gateway sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 11:43:05 auth-gateway sshd[9674]: Failed password for support from 192.0.2.143 port 22 ssh2
+Oct 26 12:00:14 auth-gateway sshd[22206]: Failed password for test from 192.0.2.143 port 22 ssh2
+Oct 26 12:04:29 server01 sshd[66520]: Failed password for support from 192.0.2.143 port 22 ssh2
+Oct 26 12:05:23 web01 sshd[62519]: Failed password for root from 198.51.100.74 port 22 ssh2
+Oct 26 12:34:56 auth-gateway sshd[64912]: Failed password for deploy from 192.0.2.143 port 22 ssh2
+Oct 26 12:42:47 server01 sshd[85218]: Failed password for admin from 203.0.113.89 port 22 ssh2
+Oct 26 12:48:21 web01 sshd[50935]: Failed password for root from 198.51.100.74 port 22 ssh2
+Oct 26 13:33:27 web01 sshd[32434]: Failed password for support from 203.0.113.25 port 22 ssh2
+Oct 26 13:42:49 auth-gateway sshd[73156]: Accepted publickey for shifa from 198.51.100.74 port 22838 ssh2
+Oct 26 13:50:11 auth-gateway sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 13:57:46 web01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 14:10:46 server01 sshd[44824]: Accepted publickey for ubuntu from 198.51.100.74 port 26141 ssh2
+Oct 26 14:18:41 codespace sshd[34338]: Failed password for deploy from 203.0.113.25 port 22 ssh2
+Oct 26 15:23:51 auth-gateway sshd[24685]: Failed password for support from 198.51.100.74 port 22 ssh2
+Oct 26 15:50:19 server01 sshd[58004]: Accepted publickey for ubuntu from 203.0.113.89 port 48555 ssh2
+Oct 26 15:55:00 web01 sshd[95199]: Failed password for oracle from 198.51.100.74 port 22 ssh2
+Oct 26 16:18:00 web01 sshd[89846]: Accepted publickey for shifa from 203.0.113.89 port 52945 ssh2
+Oct 26 16:48:23 codespace sshd[32618]: Failed password for root from 203.0.113.89 port 2222 ssh2
+Oct 26 17:01:31 codespace sshd[21575]: Failed password for deploy from 203.0.113.25 port 22 ssh2
+Oct 26 17:23:24 codespace sshd[49874]: Failed password for admin from 198.51.100.74 port 22 ssh2
+Oct 26 17:25:19 web01 sshd[80956]: Failed password for oracle from 203.0.113.25 port 22 ssh2
+Oct 26 17:36:40 auth-gateway sshd[71508]: Accepted publickey for shifa from 203.0.113.89 port 45713 ssh2
+Oct 26 17:48:32 server01 sshd[8497]: Failed password for admin from 203.0.113.25 port 22 ssh2
+Oct 26 17:52:28 server01 sshd[29029]: Failed password for ubuntu from 198.51.100.74 port 2222 ssh2
+Oct 26 17:52:58 codespace sshd[55775]: Failed password for admin from 203.0.113.25 port 2222 ssh2
+Oct 26 18:14:13 web01 sshd[82489]: Accepted publickey for deploy from 192.0.2.143 port 28380 ssh2
+Oct 26 18:16:34 codespace sshd[57486]: Accepted publickey for ubuntu from 198.51.100.74 port 62610 ssh2
+Oct 26 18:55:55 codespace sshd[85504]: Accepted publickey for deploy from 203.0.113.25 port 62492 ssh2
+Oct 26 19:40:25 codespace sshd[48926]: Failed password for test from 192.0.2.143 port 2222 ssh2
+Oct 26 19:52:20 web01 sshd[7623]: Failed password for root from 192.0.2.143 port 2222 ssh2
+Oct 26 20:01:12 web01 sshd[11671]: Accepted publickey for ubuntu from 203.0.113.89 port 60727 ssh2
+Oct 26 20:14:23 server01 sshd[61745]: Failed password for admin from 203.0.113.25 port 2222 ssh2
+Oct 26 20:32:01 server01 sshd[73729]: Accepted publickey for ubuntu from 192.0.2.143 port 36004 ssh2
+Oct 26 20:55:22 codespace sshd[58368]: Failed password for support from 203.0.113.25 port 22 ssh2
+Oct 26 21:07:34 codespace sshd[37741]: Failed password for guest from 192.0.2.143 port 22 ssh2
+Oct 26 21:23:44 web01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 22:01:13 codespace sshd[14577]: Failed password for guest from 192.0.2.143 port 2222 ssh2
+Oct 26 22:08:23 web01 sshd[42668]: Failed password for admin from 198.51.100.74 port 2222 ssh2
+Oct 26 22:44:07 auth-gateway sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubuntu(uid=1000)
+Oct 26 23:14:18 codespace sshd[98282]: Failed password for ubuntu from 198.51.100.19 port 22 ssh2
+Oct 26 23:30:03 server01 sshd[65541]: Failed password for root from 192.0.2.56 port 22 ssh2
+Oct 26 23:31:17 auth-gateway sshd[45248]: Accepted publickey for shifa from 192.0.2.143 port 38397 ssh2
+Oct 26 23:36:39 server01 sshd[26742]: Failed password for guest from 203.0.113.25 port 22 ssh2
+Oct 26 23:40:37 web01 sshd[52372]: Failed password for test from 203.0.113.25 port 22 ssh2
+Oct 26 23:58:57 server01 sshd[92976]: Failed password for ubuntu from 192.0.2.143 port 2222 ssh2
